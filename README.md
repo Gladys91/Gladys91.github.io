@@ -1,33 +1,42 @@
-# Data for Data Scientists
+# Tiulo de prueba
 
-### Michaelmas Term 2022
+### Repositorios 
 
-[Main course repo](https://github.com/lse-my472/lse-my472.github.io)
+[Main repo Stata](https://github.com/Gladys91/PRUEBA_STATA_ECON)
 
-### Prerequisites
+[Main repo R](https://github.com/Gladys91/PRUEBA_STATA_ECON)
 
-All students are required to complete the preparatory course 'R Advanced for Methodology' early in Michaelmas Term, ideally in weeks 0 and 1. You will find the link to the preparatory course on the Moodle page of MY472.
+[Main repo Eviws](https://github.com/Gladys91/PRUEBA_STATA_ECON)
 
-### Instructors
+[Main repo Power Bi](https://github.com/Gladys91/PRUEBA_STATA_ECON)
 
-Office hour slots to be booked via LSE's StudentHub
+[Main repo Latex](https://github.com/Gladys91/PRUEBA_STATA_ECON)
 
-* [Friedrich Geiecke](mailto:f.c.geiecke@lse.ac.uk), Department of Methodology.  *Office hours*: Tuesdays 5-7pm (book via Student Hub)
-* Yuhao Qian, Department of Economics.
+### Objetivo
 
-### Course information
+La finalidad de este Github es .....
 
-* Lecture:
-    - Tuesdays 9-11am, MAR.2.08
-* Classes:
-    - Thursdays 1-2pm, NAB.2.08
-    - Thursdays 2-3pm, CBG.2.05
-    - Thursdays 5-6pm, NAB.2.16
+### Instrucciones de manejo de repositorios
 
-No lectures or classes will take place during (Reading) Week 6.
+Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla
+
+* Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla
+* Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla
+
+### Acceso a videos tutoriales
+
+* Manejo de repositorios:
+     - Bla bla bla bla Bla bla bla bla Bla 
+* Tutoriales repositorios:
+     - Repositorio Stata 
+     - Repositorio R 
+     - Repositorio Eviews
+     - Repositorio Power Bi
+     - Repositorios Latex
 
 
-### Quick links to topics
+
+### Links importantes
 
 | Week | Date |  Topic |  
 |:--:|-------:|:------|  
@@ -45,6 +54,6 @@ No lectures or classes will take place during (Reading) Week 6.
 
 
 
-### Course description
+### Más información
 
-This course covers the principles of collecting, processing, and storing data with R. It also covers workflow management for typical data transformation and cleaning projects, frequently the starting point and most time-consuming part of any data science project.  We use a project-based learning approach towards the study of computation and some group-based collaboration, essential parts of modern data science work. We also make frequent use of version control and collaboration tools such as Git and GitHub.
+Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla Bla bla bla bla Bla bla bla bla Bla 
