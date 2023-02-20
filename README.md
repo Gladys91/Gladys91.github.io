@@ -2,15 +2,17 @@
 
 ### Repositorios 
 
-[Main repo Stata](https://github.com/Gladys91/PRUEBA_STATA_ECON)
+[Main repo Stata](https://github.com/Gladys91/Prueba_STATA-ECONPUCP)
 
-[Main repo R](https://github.com/Gladys91/PRUEBA_STATA_ECON)
+### Otros repositorios 
 
-[Main repo Eviws](https://github.com/Gladys91/PRUEBA_STATA_ECON)
+[Main repo R](https://github.com/Gladys91/Prueba_STATA-ECONPUCPN)
 
-[Main repo Power Bi](https://github.com/Gladys91/PRUEBA_STATA_ECON)
+[Main repo Eviws](https://github.com/Gladys91/Prueba_STATA-ECONPUCPN)
 
-[Main repo Latex](https://github.com/Gladys91/PRUEBA_STATA_ECON)
+[Main repo Power Bi](https://github.com/Gladys91/Prueba_STATA-ECONPUCP)
+
+[Main repo Latex](https://github.com/Gladys91/Prueba_STATA-ECONPUCP)
 
 ### Objetivo
 
@@ -40,17 +42,17 @@ Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla Bla bla bla bla 
 
 | Week | Date |  Topic |  
 |:--:|-------:|:------|  
-| 1  |  27 Sep | [Introduction](#1-introduction) |  
-| 2  |  4 Oct | [Tabular data](#2-tabular-data) |  
-| 3  | 11 Oct | [Data visualisation](#3-data-visualisation) |  
-| 4  | 18 Oct | [Textual data](#4-textual-data) |  
-| 5  | 25 Oct | [HTML, CSS, and scraping static pages](#5-html-css-and-scraping-static-pages) |
-| 6  |  1 Nov | _Reading week_ |  
-| 7  | 7 Nov | [XML, RSS, and scraping non-static pages](#7-xml-rss-and-scraping-non-static-pages) |   
-| 8  | 14 Nov | [Working with APIs](#8-working-with-apis) |  
-| 9  | 21 Nov | [Creating and managing databases](#9-creating-and-managing-databases) |  
-| 10 |  28 Nov | [Interacting with online databases](#10-nosql-and-cloud-databases)|  
-| 11 | 5 Dec | [Cloud computing](#11-cloud-computing) |  
+| 1  |  Capítulo 1 | Conceptos básicos |  
+| 2  |  Capítulo 2 | Creación, manipulación y descripción de variables |  
+| 3  | Capítulo 3| Gráficos y mapas |  
+| 4  | Capítulo 4 | Regresiones |  
+| 5  | Capítulo 5 | Modelo de series de tiempo |
+| 6  |  Base de datos | Principales bases de datos nacionales e internacionales |  
+| 7  | Aplicación 1 | Tesis: modelo Probit |   
+| 8  | Aplicación 2 | Tesis: modelo Diferencias en diferencias |  
+| 9  | Aplicación 3 | Tesis: modelo Efectos fijos |  
+| 10 |  Tutoriales | Uso del repositorio |  
+| 11 | Tutoriales | Ejercicios de aplicación |  
 
 
 
